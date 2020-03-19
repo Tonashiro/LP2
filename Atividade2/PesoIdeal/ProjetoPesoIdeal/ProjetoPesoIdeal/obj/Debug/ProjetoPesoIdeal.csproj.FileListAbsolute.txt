@@ -1,0 +1,9 @@
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\bin\Debug\ProjetoPesoIdeal.exe.config
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.csprojResolveAssemblyReference.cache
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.Form1.resources
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.Properties.Resources.resources
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.csproj.GenerateResource.Cache
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\bin\Debug\ProjetoPesoIdeal.exe
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\bin\Debug\ProjetoPesoIdeal.pdb
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.exe
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\ProjetoPesoIdeal\ProjetoPesoIdeal\obj\Debug\ProjetoPesoIdeal.pdb
