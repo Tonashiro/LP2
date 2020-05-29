@@ -1,0 +1,13 @@
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.csprojResolveAssemblyReference.cache
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.Exercício1.resources
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.Form1.resources
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.Cache
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.Exercício2.resources
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.Exercício3.resources
+C:\Users\vinit\OneDrive\Documentos\Visual Studio 2013\Projects\Atividade6\Atividade6\obj\Debug\Atividade6.Exercício4.resources
