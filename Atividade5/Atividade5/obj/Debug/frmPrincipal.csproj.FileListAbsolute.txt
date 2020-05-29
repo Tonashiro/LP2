@@ -1,0 +1,13 @@
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\bin\Debug\frmPrincipal.exe
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\bin\Debug\frmPrincipal.pdb
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.csprojResolveAssemblyReference.cache
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.Form1.resources
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.FormExercício3.resources
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.FormExercício4.resources
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.FormExercício5.resources
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.Cache
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.exe
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.pdb
+c:\users\vinit\onedrive\documentos\visual studio 2013\Projects\frmPrincipal\frmPrincipal\obj\Debug\frmPrincipal.FormExercício2.resources
