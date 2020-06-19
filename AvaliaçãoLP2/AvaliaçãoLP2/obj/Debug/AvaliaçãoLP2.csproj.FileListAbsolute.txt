@@ -1,0 +1,10 @@
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\bin\Debug\AvaliaçãoLP2.exe.config
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\bin\Debug\AvaliaçãoLP2.exe
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\bin\Debug\AvaliaçãoLP2.pdb
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\obj\Debug\AvaliaçãoLP2.csprojAssemblyReference.cache
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\obj\Debug\AvaliaçãoLP2.Form1.resources
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\obj\Debug\AvaliaçãoLP2.Properties.Resources.resources
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\obj\Debug\AvaliaçãoLP2.csproj.GenerateResource.cache
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\obj\Debug\AvaliaçãoLP2.csproj.CoreCompileInputs.cache
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\obj\Debug\AvaliaçãoLP2.exe
+C:\Users\vinit\OneDrive\Documentos\AvaliaçãoLP2\AvaliaçãoLP2\obj\Debug\AvaliaçãoLP2.pdb
