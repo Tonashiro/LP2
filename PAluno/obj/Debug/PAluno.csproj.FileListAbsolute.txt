@@ -1,0 +1,13 @@
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.csprojAssemblyReference.cache
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.frmPrincipal.resources
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.Properties.Resources.resources
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.csproj.GenerateResource.cache
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.csproj.CoreCompileInputs.cache
+C:\Users\ptort\Documents\TTLCodes\PAluno\bin\Debug\PAluno.exe.config
+C:\Users\ptort\Documents\TTLCodes\PAluno\bin\Debug\PAluno.exe
+C:\Users\ptort\Documents\TTLCodes\PAluno\bin\Debug\PAluno.pdb
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.exe
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.pdb
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.frmCidade.resources
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.frmAluno.resources
+C:\Users\ptort\Documents\TTLCodes\PAluno\obj\Debug\PAluno.abbxSobre.resources
